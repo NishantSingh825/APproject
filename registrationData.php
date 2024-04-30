@@ -14,5 +14,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $user_pass = $_POST["loginPass"];  
       $user_email = $_POST["uemail"];
     $user_pass = $_POST["loginPass"];
-
+}
     ?>
