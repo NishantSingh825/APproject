@@ -19,5 +19,10 @@ A comprehensive university website designed to provide students, faculty, and vi
 - **Database**: MySQL
 - **Version Control**: Git & GitHub
 
-## 📂 Project Structure
 
+## 🔧 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/university-website.git
+   cd university-website
