@@ -26,3 +26,5 @@ A comprehensive university website designed to provide students, faculty, and vi
    ```bash
    git clone https://github.com/your-username/university-website.git
    cd university-website
+
+# Thank you 
